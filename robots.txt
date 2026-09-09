@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /_not-found
+
+Sitemap: https://jannat-ara-joti.github.io/MD-MAHMUDUL-HASAN-PORTFOLIO/sitemap.xml

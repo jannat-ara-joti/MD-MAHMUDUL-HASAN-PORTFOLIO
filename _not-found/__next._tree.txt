@@ -1,0 +1,2 @@
+:HL["/MD-MAHMUDUL-HASAN-PORTFOLIO/_next/static/chunks/3s43tx1hk_5yc.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"BIkQUvu5tj-gyq_b-VKDq"}
